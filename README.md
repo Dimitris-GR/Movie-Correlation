@@ -16,5 +16,5 @@ Movie Correlation Analysis.ipynb — Full Jupyter Notebook with code and analysi
 
 🌐 Portfolio Link: https://sites.google.com/view/dimitris-drogoutis
 
-👤 Author Dimitris
-Data Analyst
+👤 Author
+Dimitris Drogoutis — Data Analyst
